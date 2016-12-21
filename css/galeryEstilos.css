@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+
+#galeria {
+border: 1px;
+background: #171717;
+margin: 50px auto;
+width: auto;
+-webkit-transition: all 0.5s
+}
+
+#imgMostrar {
+
+background: #171717;
+width: 395px;
+height: 250px;
+padding: 10px;
+
+
+}
+
+
+#galeria_miniaturas{
+	display: table;
+    margin: 0 auto;
+}
+
+
+.miniatura {
+width:  80px;
+height:  80px;
+float: left;
+cursor: pointer;
+padding: 10px;
+margin:auto;
+}
+#galeria_principal
+{
+	width: 395px;
+height: 250px;
+padding: 10px;
+	
+}
